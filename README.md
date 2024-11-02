@@ -1,8 +1,6 @@
 # Hi there, I'm Belal Akram Mohamed Alhajj 👋
 
-![Profile Views]
-
-![My Photo]([YOUR_IMAGE_UR](https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Fillustration%2Fboy-working-on-website-8080089&psig=AOvVaw1EE_Qy_5fNQCzZWnWcbCYU&ust=1730651505451000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIjVrL6JvokDFQAAAAAdAAAAABAE)L)
+![Profile Views](https://komarev.com/ghpvc/?username=belalakram&color=blue)
 
 ## 🎓 About Me
 I am a recent graduate with a Bachelor's degree in Electrical Engineering, specializing in Electronics and Communication. I am passionate about leveraging emerging technologies to solve real-world problems, particularly in the fields of AI and software development.
@@ -42,5 +40,11 @@ Seeking a Flutter Developer role to utilize my extensive knowledge in hardware, 
 - **CS50 Introduction to Computer Science** - Harvard University (Online Course)
 
 ## 🤝 Connect with Me
-- [LinkedIn](https://linkedin.com/in/belal-akram-0b287a24b/)
-- [GitHub](https://github.com/belalakram)
+- [LinkedIn](https://linkedin.com/in/belal-akram-0b287a24b)
+
+
+---
+
+> "Innovation distinguishes between a leader and a follower." – Steve Jobs
+
+Feel free to reach out for collaboration or if you have any inquiries!
