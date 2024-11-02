@@ -32,6 +32,11 @@ Seeking a Flutter Developer role to utilize my extensive knowledge in hardware, 
 - **Digital Clock with Alarm Option**
 - **Tracking Solar Panels System with BMS**
 - **Energy Harvesting for Smart Floating City**
+- **muslim app**
+- **boxer app**
+- **iot app**
+- **chat app**
+
 
 ## 📜 Certifications
 - **Artificial Intelligence (AI) Track** - National Telecommunication Institute (NTI)
