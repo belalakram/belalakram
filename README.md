@@ -40,7 +40,7 @@ Seeking a Flutter Developer role to utilize my extensive knowledge in hardware, 
 - **CS50 Introduction to Computer Science** - Harvard University (Online Course)
 
 ## 🤝 Connect with Me
-- [LinkedIn](https://linkedin.com/in/belal-akram-0b287a24b)
+- [LinkedIn]([https://linkedin.com/in/belal-akram-0b287a24b](https://www.linkedin.com/in/belal-akram-%F0%9F%87%B5%F0%9F%87%B8-0b287a24b/))
 
 
 ---
