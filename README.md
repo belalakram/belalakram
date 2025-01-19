@@ -6,8 +6,7 @@
 I am a recent graduate with a Bachelor's degree in Electrical Engineering, specializing in Electronics and Communication. I am passionate about leveraging emerging technologies to solve real-world problems, particularly in the fields of AI and software development.
 
 ## 💼 Objective
-Seeking a Flutter Developer role to utilize my extensive knowledge in hardware, software, and embedded systems. I am committed to improving processes and contributing to innovative solutions in dynamic environments.
-
+Seeking an IoT Engineer passionate about developing innovative solutions that seamlessly bridge the gap between hardware and software.
 ## 📚 Education
 - **Future University in Egypt (FUE)**  
   Bachelor's degree in Engineering and Technology  
