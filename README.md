@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=belalakram&color=blue)
 
 ## 🎓 About Me
-I am a  graduate with a Bachelor's degree in Electrical Engineering, specializing in Electronics and Communication. I am passionate about leveraging emerging technologies to solve real-world problems, particularly in the fields of AI and software development.
+I am  graduate with a Bachelor's degree in Electrical Engineering, specializing in Electronics and Communication. I am passionate about leveraging emerging technologies to solve real-world problems, particularly in the fields of AI and software development.
 
 ## 💼 Objective
 Seeking an IoT Engineer passionate about developing innovative solutions that seamlessly bridge the gap between hardware and software.
